@@ -1,16 +1,22 @@
-## Hi there 👋
+I'm Valeria!
+------------
 
-<!--
-**valleY-ku/valleY-ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analytics
+--------------
 
-Here are some ideas to get you started:
+Studying Economy and Data Science at HSE University. I'm improving my analytical skills by learning economics and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👩‍💻 Tech skills:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,postgres" />
+  </a>
+</p>
+
+* 🛠 Data Analytics & Visualization: Orange, DataLens (basic), MS Excel
+* 📚 Relevant courses: algorithms and data structures, microeconomics, information methods of digital economy, english
+* 🧠  I'm currently learning probability theory and mathematical statistics, fundamentals of matrix calculations, macroeconomics
+* 🔬 Research Interests: Impact of Russian banks' marketing strategies on shareholder trust and stock dynamics during economic crises
+* 🌍  I'm based in Mosсow
+* ✉️  You can contact me at [telegram](https://t.me/kulia_valleY)
